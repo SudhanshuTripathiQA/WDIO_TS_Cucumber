@@ -1,0 +1,23 @@
+{
+    "currentAge": 40,
+    "retirementAge": 68,
+    "currentIncome": 100000,
+    "spouseIncome": 75000,
+    "retirementSavingBalance": 500000,
+    "savingEachYear": 10,
+    "interestRate": 5,
+    "socialSecurityIncome": "yes",
+
+    "additionalIncome" : 4000,
+    "otherIncome" : 500,
+    "retirementDuration" : 20,
+
+    "retirementAnnualIncome" : 75,
+    "preRetirementRoi" : 8,
+    "postRetirementRoi" : 5,
+
+    "invalidCurrentAge" : 105,
+    "successMessage" : "Congratulations!",
+    "errorMessage" : "Please fill out all required fields"
+
+}
